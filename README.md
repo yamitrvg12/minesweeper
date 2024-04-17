@@ -4,8 +4,8 @@
 
 ### Project setup and initiazalization
 
-- [ ] Set up the project structure
-- [ ] Start the development server and ensure the defalt app runs successfully
+- [x] Set up the project structure
+- [x] Start the development server and ensure the defalt app runs successfully
 - [ ] Design styles for the game board and cells
 
 ### Component development
